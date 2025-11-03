@@ -11,5 +11,6 @@ public class imparOuPar {
             System.out.print("\nÉ ímpar!");
         }
 
+        System.out.print("Adeus");
     }
 }
